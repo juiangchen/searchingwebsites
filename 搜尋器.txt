@@ -1,0 +1,40 @@
+<!-- start of SinaSearch --> 
+<table border="0" cellspacing="0" cellpadding="0" align="center" width="225" height="51"
+background="http://search.sina.com.tw/searchbox/search_box_background.gif" nowrap>
+<form method="get" action="http://search.sina.com.tw/sn-bin/search.cgi">
+<tr><td align="right">
+<input checked name="Area" type="radio" value="All">
+<img src="http://search.sina.com.tw/searchbox/search_box_text_website.gif">
+<input name="Area" type="radio" value="News">
+<img src="http://search.sina.com.tw/searchbox/search_box_text_news.gif">&nbsp;&nbsp;
+<center>
+<font style="font-size:8pt"><input type="text" name="Keywords" size="14"></font>&nbsp;
+<input type="image" border="0" name="image" src="http://search.sina.com.tw/searchbox/search_button_unclick.gif"
+width="39" height="19">
+</center>
+</td></tr>
+</form></table>
+<!-- end of SinaSearch -->
+
+
+<!-- start of SinaSearch 2 -->
+<center> <table border="0" cellspacing="0" cellpadding="1">
+<form action ="http://search.sina.com.tw/sn-bin/search.cgi" method = "GET">
+<tr>
+<td nowrap> <a href=http://search.sina.com.tw/index.html> <img src="http://search.sina.com.tw/ipo/icons/images/search_logo1.gif" border=0> </td>
+</a>
+<td>
+<select name="Area">
+<option value="All" selected>找網站  
+<option value="ThirdParty">找網頁  
+<option value="News">找新聞  
+<option value="Journal">找期刊論文  
+</select>
+<input size=20 name=Keywords> 
+<input type="submit" value="搜尋" name="submit2">
+</td>
+</tr>
+</form>
+</table>
+</center>
+<!-- end of SinaSearch 2 -->

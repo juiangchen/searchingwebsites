@@ -1,0 +1,34 @@
+<input type=checkbox name=w73 value=ON><a href=http://www.24cc.com target=w73>24CC 入口網站</a>
+<input type=checkbox name=w83 value=ON><a href=http://www.8d8d.com target=w83>8d8d 網路好朋友</a>
+<input type=checkbox name=w72 value=ON><a href=http://www.abc123.com.tw target=w72>ABC123 超人氣</a>
+<input type=checkbox name=w64 value=ON><a href=http://www.ab.net.tw target=w64>ABNet 知諸網</a>
+<input type=checkbox name=w79 value=ON><a href=http://www.acer121.com target=w79>Acer121 元碁</a>
+<input type=checkbox name=w4 value=ON><a href=http://www.coo.com.tw target=w4>Coo 台灣索引</a>
+<input type=checkbox name=w78 value=ON><a href=http://www.dat.com.tw target=w78>DATInfo 數位情報</a>
+<input type=checkbox name=w65 value=ON><a href=http://www.dreamer.com.tw target=w65>Dreamer 夢想家</a>
+<input type=checkbox name=w120 value=ON><a href=http://eworld.usernet.com.tw target=w120>eWorld 好站e窩</a>
+<input type=checkbox name=w82 value=ON><a href=http://www.formosa.com.tw target=w82>Formosa 福爾摩莎</a>
+<input type=checkbox name=w6 value=ON><a href=http://gais.cs.ccu.edu.tw target=w6>Gais 蓋世</a>
+<input type=checkbox name=w37 value=ON><a href=http://www.goyoyo.com.tw target=w37>Goyoyo 悠游</a>
+<input type=checkbox name=w7 value=ON><a href=http://www.greenworld.com.tw target=w7>Green World 綠界</a>
+<input type=checkbox name=w122 value=ON><a href=http://www.hamastar.com.tw target=w122>HamaStar 哈瑪星傳奇</a>
+<input type=checkbox name=w118 value=ON><a href=http://www.tw-no1.com target=w118>HIHI 情報王</a>
+<input type=checkbox name=w9 value=ON><a href=http://www.hinet.net/source/index.htm target=w9>HiNet 中華電信</a>
+<input type=checkbox name=w11 value=ON><a href=http://www.ifound.net.tw target=w11>IFound 發現者</a>
+<input type=checkbox name=w14 value=ON><a href=http://www.kimo.com.tw target=w14>Kimo 奇摩</a>
+<input type=checkbox name=w119 value=ON><a href=http://www.lycosasia.com.tw target=w119>LycosAsia 台灣</a>
+<input type=checkbox name=w125 value=ON><a href=http://www.mosimosi.com.tw target=w125>MosiMosi 日本摩西</a>
+<input type=checkbox name=w27 value=ON><a href=http://www.onweb.com.tw target=w27>OnWeb 大日</a>
+<input type=checkbox name=w30 value=ON><a href=http://www.openfind.com.tw target=w30>Openfind 網擎</a>
+<input type=checkbox name=w39 value=ON><a href=http://www.pchome.com.tw target=w39>PC home 網路家庭</a>
+<input type=checkbox name=w2 value=ON><a href=http://search.seeder.net target=w2>Seeder 阿波羅</a>
+<input type=checkbox name=w34 value=ON><a href=http://search.sina.com.tw target=w34>Sina 新浪網</a>
+<input type=checkbox name=w121 value=ON><a href=http://www.soyes.net target=w121>SoYes 網路奧斯卡</a>
+<input type=checkbox name=w77 value=ON><a href=http://www.sunup.net target=w77>Sunup 日出搜索</a>
+<input type=checkbox name=w40 value=ON><a href=http://www.timway.com target=w40>Timway 添達香港</a>
+<input type=checkbox name=w22 value=ON><a href=http://www.tisnet.net.tw target=w22>TISNet 大同</a>
+<input type=checkbox name=w23 value=ON><a href=http://www.ufo.cc target=w23>UFO 悠浮</a>
+<input type=checkbox name=w24 value=ON><a href=http://www.whatsite.com target=w24>WhatSite 哇塞</a>
+<input type=checkbox name=w33 value=ON><a href=http://tw.yahoo.com target=w33>Yahoo 雅虎中文</a>
+<input type=checkbox name=w25 value=ON><a href=http://www.yam.com.tw target=w25>Yam 番薯藤</a>
+<input type=checkbox name=w26 value=ON><a href=http://www.yes.net.tw target=w26>Yes 悅氏</a>
